@@ -16,7 +16,7 @@ Setup and Run Instructions
 
 Clone the project to your local machine and navigate to the project directory:
 
-git clone https://github.com/pecomen/Pension-Contribution-Management-System.git
+git clone(https://github.com/pecomen/PensionContributionManagementSystem.git)
 cd Pension-Contribution-Management-System
 
 2. Configure the Database Connection
